@@ -1,7 +1,7 @@
 ![MasterHead](https://pbs.twimg.com/profile_banners/1477835236474068999/1642626101/1500x500)
 <h1 align="center">I'm Anandu A</h1>
 <h3 align="center">Tech Enthusiast From Kerala</h3>
-<img align="right" alt="Coding" width="400" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif">
+<img align="center" alt="Coding" width="400" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif">
 
 <p align="left"> <a href="https://twitter.com/anandua78" target="blank"><img src="https://img.shields.io/twitter/follow/anandua78?logo=twitter&style=for-the-badge" alt="anandua78" /></a> </p>
 
